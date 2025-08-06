@@ -1,0 +1,16 @@
+/* Custom styles for ResumeCraft AI */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+a {
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+footer {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
